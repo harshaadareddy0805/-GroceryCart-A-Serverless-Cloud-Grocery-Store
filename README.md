@@ -6,6 +6,10 @@
 🔗 [View the Live Project](https://your-cloudfront-link.amazonaws.com)
 
 ---
+![grocerycart ss 1](https://github.com/user-attachments/assets/e820f0f8-f067-4705-bc35-4d52a4d032c7)
+![grocertcart ss 2](https://github.com/user-attachments/assets/8165abc0-ed57-4c80-868e-12301434bf0c)
+![grocerycart ss 3](https://github.com/user-attachments/assets/b3f8d18e-2638-4974-b7de-673a3f11c895)
+
 
 ## 🔧 Tech Stack
 
