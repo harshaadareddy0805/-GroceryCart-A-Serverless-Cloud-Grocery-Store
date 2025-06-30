@@ -3,7 +3,7 @@
 **GroceryCart** is a fully functional online grocery store web application built using **React** for the frontend and **AWS serverless services** for the backend. It allows users to browse products, manage a shopping cart, sign in securely, and checkout orders with cloud-powered performance and reliability.
 
 ## 🌐 Live Demo
-🔗 [View the Live Project](https://your-cloudfront-link.amazonaws.com)
+🔗 [View the Live Project](https://d1jdsv1nu1ww2r.cloudfront.net)
 
 ---
 ![grocerycart ss 1](https://github.com/user-attachments/assets/e820f0f8-f067-4705-bc35-4d52a4d032c7)
